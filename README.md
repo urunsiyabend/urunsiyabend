@@ -7,6 +7,8 @@
 
 🎓 Studying Computer Engineering at Ege University
 
+💯 Skilled at software programming and graphic design
+
 🌱 Learning more about Application Design, Deep Learning and Microprocessors
 <br>
 <br>

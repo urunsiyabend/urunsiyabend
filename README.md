@@ -9,10 +9,7 @@
 
 ### Connect with Me:
 
-[<img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626273.png?token=exp=1643458215~hmac=ae792ad655c24830cd35e2671c43abaf" height=50 >](https://www.linkedin.com/in/siyabend-urun/)
-[<img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626270.png?token=exp=1643458404~hmac=442633b3d870234dae680f836426a94e" height=50 >](https://www.instagram.com/sybnd_urun/)
-[<img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height=50 >](https://github.com/urunsiyabend)
-[<img src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670233.png?token=exp=1643458653~hmac=fb7c25d3250799fce881bd063f5e42e1" height=50 >](https://steamcommunity.com/profiles/76561198860354548/)
+[<img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626273.png?token=exp=1643458215~hmac=ae792ad655c24830cd35e2671c43abaf" height=50 >](https://www.linkedin.com/in/siyabend-urun/)[<img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626270.png?token=exp=1643458404~hmac=442633b3d870234dae680f836426a94e" height=50 >](https://www.instagram.com/sybnd_urun/)[<img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height=50 >](https://github.com/urunsiyabend)[<img src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670233.png?token=exp=1643458653~hmac=fb7c25d3250799fce881bd063f5e42e1" height=50 >](https://steamcommunity.com/profiles/76561198860354548/)
 <br>
 
 ### Technologies and Tools

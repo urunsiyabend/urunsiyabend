@@ -3,13 +3,13 @@
 
 ## Hi there, I'm Siyabend👋
 
-🖥️ Currently exploring new technologies, working on data science
+🖥️ Currently exploring new technologies, working on backend development
 
 🎓 Studying Computer Engineering at Ege University
 
-💯 Skilled at software programming and graphic design
+💯 Skilled at software development and graphic design
 
-🌱 Learning more about Application Design, Deep Learning and Microprocessors
+🌱 Learning more about API Design, Software Architecture and Microservice Architecture
 <br>
 <br>
 

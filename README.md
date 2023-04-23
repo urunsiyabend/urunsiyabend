@@ -14,6 +14,8 @@
 <br>
 
 ![Siyabend Ürün's GitHub stats](https://github-readme-stats.vercel.app/api?username=urunsiyabend&show_icons=true&theme=gotham)
+![Siyabend Ürün's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=urunsiyabend&theme=dark)
+
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/sybnd_urun/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/siyabend-urun)

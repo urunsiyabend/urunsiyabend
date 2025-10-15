@@ -5,7 +5,7 @@
 
 🖥️ Currently exploring new technologies, working on backend development
 
-🎓 Studying Computer Engineering at Ege University
+🎓 Computer Engineering Graduate from Ege University
 
 💯 Skilled at software development and graphic design
 
@@ -43,3 +43,11 @@
 
 ### CodeWars
 ![CodeWars](https://www.codewars.com/users/urunsiyabend/badges/large)
+
+### Plugins
+
+## BulkClip
+|  |  |
+|---|---|
+| ![Downloads](https://img.shields.io/jetbrains/plugin/d/28708) ![Version](https://img.shields.io/jetbrains/plugin/v/28708) ![Rating](https://img.shields.io/jetbrains/plugin/r/stars/28708) | **Free** |
+[View on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/28708)

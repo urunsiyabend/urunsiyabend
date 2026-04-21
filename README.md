@@ -1,6 +1,3 @@
-[<img src="BANNER.png" />](https://github.com/urunsiyabend)
-<br>
-
 ## Hi there, I'm Siyabend👋
 
 🖥️ Currently exploring new technologies, working on backend development

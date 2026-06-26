@@ -32,7 +32,15 @@
 
 ## Also built
 
-[BulkClip](https://plugins.jetbrains.com/plugin/28708) — Free JetBrains IDE plugin.
+### [BulkClip](https://plugins.jetbrains.com/plugin/28708)
+
+A free JetBrains IDE plugin for copying the contents of multiple selected files and folders into a single, structured clipboard payload.
+
+<p>
+  <img src="https://img.shields.io/jetbrains/plugin/d/28708?label=downloads" alt="Downloads" />
+  <img src="https://img.shields.io/jetbrains/plugin/v/28708?label=version" alt="Version" />
+  <img src="https://img.shields.io/jetbrains/plugin/r/stars/28708?label=rating" alt="Rating" />
+</p>
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=urunsiyabend&show_icons=true&theme=gotham&hide_border=true" alt="GitHub stats" />
